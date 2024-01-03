@@ -1,6 +1,6 @@
 # Hi there, I'm Alex
 
-Data Scientists with 7+ years of experience creating software solutions for time series forecasting to increase the efficiency, accuracy, and utility, helping our clients to improve their planning and forecasting process. I have developed a diverse set of skills in the fields of statistics & econometrics, machine learning and programming as well as data visualization and communication.
+Economist and Data Scientist with 8+ years of experience in the consulting industry, specializing in data and analytics (D&A) and (AI-based) Integrated Business Planning (IBP) for sales, operations, and financial planning & forecasting. I have a proven track record of creating customized software solutions for large-scale time series forecasting and advanced analytics, improving operational efficiency, accuracy, and data-driven decision-making for 25+ clients across various industries (e.g., pharmaceutical, chemical, manufacturing, retail, and automotive). Proficient in statistics, econometrics, machine learning, programming, and data visualization, with strong, agile project management and communication skills.
 
 ## Interests
 
