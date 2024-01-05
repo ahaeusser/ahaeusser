@@ -6,11 +6,6 @@ Economist and Data Scientist with 8+ years of experience in the consulting indus
 
 * 📈 Time Series Analysis and Forecasting
 * 🛠️ Statistics, Econometrics and Machine Learning
-* 📊 Data Visualization and Communication
+* 📊 Data Visualization and Reporting
 * 🎓 Data Science Education
 * 📦 R Programming and Package Development
-
-## Social
-
-* [LinkedIn](https://www.linkedin.com/in/alexander-haeusser/)
-* [Twitter](https://twitter.com/alex_haeusser)
