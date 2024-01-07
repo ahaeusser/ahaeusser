@@ -9,3 +9,4 @@ Economist and Data Scientist with 8+ years of experience in the consulting indus
 * 📊 Data Visualization and Reporting
 * 🎓 Data Science Education
 * 📦 R Programming and Package Development
+* 💵 Financial Planning & Analysis (FP&A) and Integrated Business Planning (IBP)
