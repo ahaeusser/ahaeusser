@@ -41,10 +41,6 @@ I maintain **R packages** related to **time series modeling and forecasting**:
   </tr>
 
   <tr>
-    <td colspan="2" height="16"></td>
-  </tr>
-
-  <tr>
     <td width="100" align="center">
       <img src="figures/logo_tscv.png" width="75" alt="tscv hex sticker">
     </td>
