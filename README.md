@@ -21,9 +21,39 @@ My work sits at the intersection of analytics, business transformation, and prac
 - 🎓 **Analytics Education**  
   Teaching and mentoring in statistics, econometrics, forecasting, and programming
 
+
 ## Software
 
 I maintain **R packages** related to **time series modeling and forecasting**:
 
-- **echos** – Echo State Networks for time series modeling and forecasting | [CRAN](https://cran.r-project.org/package=echos) | [GitHub](https://github.com/ahaeusser/echos) | [Website](https://ahaeusser.github.io/echos/)
-- **tscv** – Utilities for tidy time series forecasting and time series cross-validation | [CRAN](https://cran.r-project.org/package=tscv) | [GitHub](https://github.com/ahaeusser/tscv) | [Website](https://ahaeusser.github.io/tscv/)
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="figures/logo_echos.png" width="75" alt="echos hex sticker">
+    </td>
+    <td>
+      <strong>echos</strong><br>
+      Echo State Networks for time series modeling and forecasting<br>
+      <a href="https://cran.r-project.org/package=echos">CRAN</a> |
+      <a href="https://github.com/ahaeusser/echos">GitHub</a> |
+      <a href="https://ahaeusser.github.io/echos/">Website</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" height="16"></td>
+  </tr>
+
+  <tr>
+    <td width="100" align="center">
+      <img src="figures/logo_tscv.png" width="75" alt="tscv hex sticker">
+    </td>
+    <td>
+      <strong>tscv</strong><br>
+      Utilities for tidy time series forecasting and time series cross-validation<br>
+      <a href="https://cran.r-project.org/package=tscv">CRAN</a> |
+      <a href="https://github.com/ahaeusser/tscv">GitHub</a> |
+      <a href="https://ahaeusser.github.io/tscv/">Website</a>
+    </td>
+  </tr>
+</table>
